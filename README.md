@@ -11,4 +11,4 @@ This game is developed by python and turtle module and you can also try with you
 😀😀
 
 
-![screen-capture_v67JRvyY](https://user-images.githubusercontent.com/72398995/139449578-f7775986-a4e8-4c24-b98c-3575bb6f8f6c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72398995/140608885-15f8861a-a576-474b-a47d-2b2eedfd86d6.gif)
